@@ -1,0 +1,195 @@
+/*HOME-PAGE*/
+
+.bar{
+	background-image:url(../gym-folder/humphrey.jpg);
+	background-position:center bottom;
+	height:100vh;
+	background-size: cover;
+	background-repeat:no-repeat;
+
+}
+
+
+.hero{
+	font-family:serif;
+	font-size: 3rem;
+}
+
+.right{
+	font-size: 24px;
+	font-family:serif;
+}
+
+.quotes{
+	width:550px;
+	height:220px;
+	color:white;
+	background-color:rgba(0,0,0,0.5);
+	border-radius:15px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	font-family:serif;
+}
+
+.team{
+	font-size: 28px;
+	font-style:bold;
+	color:red;	
+}
+
+.location{
+	border-style:solid;
+	border-width:1px;
+	margin:3px 0px 15px 0px;
+	background-color:grey;
+	color:white;
+}
+
+
+
+
+
+/*BAR-PAGE*/
+
+
+.picture{
+	background-image:url(../gym-folder/irene-unsplash.jpg);
+	background-size: cover;
+	background-position:center left;
+	background-attachment:scroll;
+	     
+}
+
+.one{
+	font-family:serif;
+	font-size: 44px;
+}
+
+.pic{
+	background-image:url(../gym-folder/brooke-unsplash.jpg);
+	background-size: cover;
+	background-position:center left;
+	background-attachment:scroll;
+	
+}
+
+.image{
+	background-image:url(../gym-folder/nadin-unsplash.jpg);
+	bockground-position:right bottom;
+	background-size: cover;
+	background-attachment:scroll;
+	
+}
+
+.images{
+	background-image:url(../gym-folder/kobby-unsplash.jpg);
+	background-size: cover;
+	background-position:center bottom;
+	background-attachment:scroll;
+
+}
+
+.footer{
+	border-style:solid;
+	border-weight:1px;
+	background-color:darkgray;
+	color:white;
+	margin-top:5px;
+	margin-bottom:20px;
+	font-family:serif;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:0px;
+	padding-left:0px;
+}
+
+.two{
+	font-family:serif;
+	font-size: 44px;
+}
+
+
+
+
+/*SERVICE*/
+
+
+.collum-one{
+	background-color:rgb(30,50,60);
+	color:white;
+	height:45vh;
+	font-family:serif;
+	font-size: 24px;
+}
+
+.emphasis{
+	color:skyblue;
+}
+
+.collum-two{
+	background-color:rgb(80,120,180);
+	color:white;
+	height:45vh;
+	font-family:serif;
+	font-size: 24px;
+}
+
+.hayley{
+	background-image:url(../gym-folder/hayley.jpg);
+	background-size: cover;
+	background-position:center bottom;
+	background-attachment:scroll;
+}
+
+.edga{
+	background-image:url(../gym-folder/edga.jpg);
+	background-size: cover;
+	background-position:center top;
+	background-attachment:scroll;
+}
+
+.yoga{
+	background-image:url(../gym-folder/yoga.jpg);
+	background-size: cover;
+	background-position:center right ;
+	background-attachment:scroll;
+}
+
+
+.alexandra{
+	background-image:url(../gym-folder/alexandra.jpg);
+	background-size: cover;
+	background-position:center bottom;
+	background-attachment:scroll;
+}
+
+.sam{
+	background-image:url(../gym-folder/sam.jpg);
+	background-position:center bottom;
+	background-size: cover;
+	background-attachment:scroll;
+}
+
+.danielle{
+	background-image:url(../gym-folder/danielle.jpg);
+	background-size: cover;
+	background-position:center left;
+	background-attachment:scroll;
+}
+
+.unsplash{
+	background-image:url(../gym-folder/unsplash.jpg);
+	background-size: cover;
+	background-position:center right;
+	background-attachment:scroll;
+
+}
+
+.butt-unsplash{
+	background-image:url(../gym-folder/butt-unsplash.jpg);
+	background-size: cover;
+	background-position:;
+	background-attachment:scroll;
+}
